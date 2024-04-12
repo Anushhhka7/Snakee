@@ -4,5 +4,5 @@
 ### down->DOWN
 ### move left->LEFT
 ###  move rigth->RIGHT
-###PRESS ESCAPE to EXIT.
+### PRESS ESCAPE to EXIT.
 ## WARNING:THE SPEED OF THE SNAKE INCREASES RAPIDLY
